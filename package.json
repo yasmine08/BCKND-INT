@@ -1,0 +1,22 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasmine08/BCKND-INT.git"
+  },
+  "author": "Yasmine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasmine08/BCKND-INT/issues"
+  },
+  "homepage": "https://github.com/yasmine08/BCKND-INT#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
